@@ -9,9 +9,6 @@ __pycache__/
 # Virtualenvironment
 myvenv/
 
-# 
-assets/
-
 # Distribution / packaging
 .Python
 build/
